@@ -12,3 +12,6 @@
 - `git diff`: tells you what changes were made, so long as not in staging area.  Changes show up in green.
 - `git diff --staged`: tells you what changes were made while in the staging area.
 - `git commit -m "blah blah blah": allows you to directly add your commit notes while running the commit command.
+- `git remote add origin <URL>`: adds <URL> with the name origin
+- `git push origin master': pushed the master branch to the origin remote
+- `git pull origin master`: pulls the master branch from origin to local computer
