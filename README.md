@@ -17,8 +17,6 @@
 - `git push origin master': pushed the master branch to the origin remote
 - `git pull origin master`: pulls the master branch from origin to local computer
 
-<<<<<<< HEAD
 ##Remotes
-=======
 - You can make changes to different parts of a file and it will be combined automatically.
->>>>>>> a177bcc41c9e5e4f89c82498e687599a0ee66ede
+- In merge conflict, look for the `>>>` `===` `<<<` and fix those lines to what you want
