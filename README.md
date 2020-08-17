@@ -1,5 +1,6 @@
 # 2020-08-17-git-ksara1
 
+##Local
 - `git init`: create git repository in current folder
 - `git config --gloval user.name "Sara Klopf"
 - `git config --global user.email "ksara1@vt.edu"
@@ -15,3 +16,5 @@
 - `git remote add origin <URL>`: adds <URL> with the name origin
 - `git push origin master': pushed the master branch to the origin remote
 - `git pull origin master`: pulls the master branch from origin to local computer
+
+##Remotes
