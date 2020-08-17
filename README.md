@@ -9,3 +9,6 @@
 - `git log` : shows you your history
 	- `git log --oneline`: shows you your 1 line version of history
 - `HEAD`: tells you where you are looking at in history
+- `git diff`: tells you what changes were made, so long as not in staging area.  Changes show up in green.
+- `git diff --staged`: tells you what changes were made while in the staging area.
+- `git commit -m "blah blah blah": allows you to directly add your commit notes while running the commit command.
